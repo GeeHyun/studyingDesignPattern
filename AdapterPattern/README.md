@@ -1,0 +1,2 @@
+- Adapter Pattern
+    - 연관성 없는 두 객체 묶어 사용
