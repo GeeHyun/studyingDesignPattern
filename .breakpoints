@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "PrototypePattern/DeepShallow./Main.java": [
+      {
+        "id": "832c1c37-d6ba-43ba-9d60-61d2a6040a3b",
+        "line": 6,
+        "version": 837,
+        "index": 160
+      }
+    ]
+  }
 }
